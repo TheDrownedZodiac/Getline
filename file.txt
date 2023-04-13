@@ -1,0 +1,13 @@
+bonjour
+tous le monde !
+ceci est un
+test de getline
+getline() reads an entire line from stream, storing the address of the buffer containing the text into *lineptr. The buffer is null-terminated and includes the newline character, if one was found.
+
+ez
+
+
+ez
+
+lol
+If *lineptr is NULL, then getline() will allocate a buffer for
